@@ -6,7 +6,7 @@ Software Engineer - RoR Backend - Devops Culture Lover
 
 Electronic Engineer, currently working as a Ruby on Rails developer. During the last four years, I have helped along with a team to the digital transformation of different companies at national and international levels using tools and platforms in the cloud. As a developer, my biggest motivation is to see that my work helps companies to optimize their processes, improve their services and adopt new technologies.
 
-* 🌍  I'm based in Barranquilla, Colombia
+* 🌍 I'm based in Barranquilla, Colombia
 * ✉️  You can contact me at [lscantillo10@gmail.com](mailto:lscantillo10@gmail.com)
 * 🧠  I'm learning Golang, Nodejs, Reactjs, and Web3 tools
 
